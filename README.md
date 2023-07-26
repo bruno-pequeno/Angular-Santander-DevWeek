@@ -54,12 +54,16 @@
 </div>
 
 ## Features
-- [x] This project was developed entirely in Angular and aims only to show and put into practice some concepts that are often used in development with the Angular framework, such as: dependencies, configuration, Angular Cli, Node.js, components and their injection, etc, just one for a first contact with the framework.
+- [x] This project was developed entirely in Angular and aims only to show and put into practice some concepts
+			that are often used in development with the Angular framework, such as: dependencies, configuration, Angular Cli,
+			Node.js, components and their injection, etc, just one for a first contact with the framework.
 
 ## Technologies & Techniques
 
 This project was developed with the following technologies:
--   Angular
+-   Angular: as mentioned, Angular was the framework used, but within it we have several technologies such as: TypeScript, CSS and HTML.
+In addition to the notion developed about the project structure, with the configuration Jsons
+of all project properties and modules node.
 
 
 ## Mentor do Projeto

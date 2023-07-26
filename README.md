@@ -31,7 +31,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src=".github/assets/preview.png" width="400" alt="preview" />
+      <img src=".github/assets/Projeto-Santander-DevWeek.png" width="400" alt="preview" />
   	</a>
 </div>
 

@@ -42,26 +42,24 @@
     <br />
     <br />
     <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
+      href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
+      href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues/new">
       Request Feature
     </a>
   </p>
 </div>
 
 ## Features
-- [x] Fully Component With Angular
+- [x] This project was developed entirely in Angular and aims only to show and put into practice some concepts that are often used in development with the Angular framework, such as: dependencies, configuration, Angular Cli, Node.js, components and their injection, etc, just one for a first contact with the framework.
 
 ## Technologies & Techniques
 
 This project was developed with the following technologies:
--   [Angular](https://angular.io)
+-   [Angular]
 
 
 ## Mentor do Projeto

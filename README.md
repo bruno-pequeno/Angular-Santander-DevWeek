@@ -59,7 +59,7 @@
 ## Technologies & Techniques
 
 This project was developed with the following technologies:
--   [Angular]
+-   Angular
 
 
 ## Mentor do Projeto

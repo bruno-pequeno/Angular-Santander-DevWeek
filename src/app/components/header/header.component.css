@@ -1,11 +1,11 @@
 header {
+    background-color: #E31918;
+	color: #fff;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 72px;
-	background-color: #E31918;
-	color: #fff;
 	padding: 2px 40px;
 	display: flex;
 	justify-content: space-between;
@@ -13,9 +13,9 @@ header {
 }
 
 .search-box {
-	background-color: #F0F0F0;
 	font-family: Open Sans;
 	font-size: 14px;
+    background-color: #F0F0F0;
 	color: #9C9C9C;
 	width: 711px;
 	height: 44px;
@@ -33,23 +33,23 @@ header {
 }
 
 #search-box-input {
+    background-color: transparent;
 	width: 680px;
 	height: 44px;
 	font-size: 14px;
 	padding-left: 30px;
 	outline: none;
-	background-color: transparent;
 	z-index: 3;
 }
 
-
 .logo {
+    display: flex;
+    justify-items: flex-start;
+    align-items: center;
 	font-weight: bold;
 	font-size: 20px;
 	height: 40px;
-	display: flex;
-	justify-items: flex-start;
-	align-items: center;
+
 }
 
 .icons-box {

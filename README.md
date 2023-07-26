@@ -73,5 +73,3 @@ of all project properties and modules node.
 |                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)

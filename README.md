@@ -3,7 +3,7 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
   <br />
-  Santander Home Clone - Angular
+  Página Home do Santander em Angular
 </h1>
 
   <!-- project badges -->
@@ -39,10 +39,6 @@
   <p align="center">
       A Clone From Santander Card home page with Angular
     <br />
-    <a 
-      href="## Usage">
-      <strong>Navigate Live Demo Now »</strong>
-    </a>
     <br />
     <br />
     <a 
@@ -68,38 +64,7 @@ This project was developed with the following technologies:
 -   [Angular](https://angular.io)
 
 
-## Building
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Usage
-
-📦 1. Install dependencys
-
-```bash
-$ npm install
-```
-
-📁 2. Change Directory
-
-```bash
-$ cd santander-client
-```
-
-🔧 3. Run the script
-
-```bash
-$ ng serve
-```
-
-🌐 4. Navigate to
-
-```bash 
- http://localhost:4200/
-```
-Runs the app in the development mode.<br/>
-
-## Autor
+## Mentor do Projeto
 
 | [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
